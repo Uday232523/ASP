@@ -1,0 +1,10 @@
+quantity,value
+Mean lifetime E[X],3.0999999999999996
+Variance of lifetime Var(X),1.3900000000000001
+Long-run renewal rate 1/E[X],0.32258064516129037
+Approximate E[N(10)],3.2258064516129035
+Approximate E[N(20)],6.451612903225807
+Approximate E[N(30)],9.67741935483871
+Simulated average N(10),2.9549
+Simulated average N(20),6.184
+Simulated average N(30),9.4216

@@ -1,0 +1,10 @@
+quantity,value
+mean_offspring,1.1
+offspring_variance,0.89
+extinction_probability,0.7912878474779427
+survival_probability,0.20871215252205733
+expected_population_generation_5,1.6105100000000006
+expected_population_generation_10,2.5937424601000023
+simulated_average_population_generation_10,2.533
+simulated_probability_extinct_generation_10,0.7167
+number_of_simulation_runs,10000.0
